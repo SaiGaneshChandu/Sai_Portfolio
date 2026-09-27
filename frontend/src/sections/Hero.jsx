@@ -128,7 +128,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/sri-naga-veera-venkata-sai-ganesh-chandu-b281a62b3"
+              href="https://www.linkedin.com/in/sri-naga-veera-venkata-sai-ganesh/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Sai Ganesh LinkedIn"
